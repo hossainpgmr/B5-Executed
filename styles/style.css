@@ -9,6 +9,7 @@
   object-fit: cover;
   background-position: center;
 }
+/* single html page style */
 .article-heading {
   font-family: "Noto Serif Display", serif;
   color: #576237;
@@ -48,3 +49,16 @@
   font-size: 29px;
   font-weight: bold;
 }
+/* about html page style */
+.about-head-img img {
+  width: 100%;
+  min-height: 250px;
+  max-height: 250px;
+  object-fit: cover;
+  background-position: center;
+}
+
+.about-title{
+font-size: 45px;
+}
+
